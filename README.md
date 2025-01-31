@@ -295,8 +295,24 @@ Informações complementares
 ### **Informações complementares**
 >[1] Dados do carrinho de compras: vide caso de uso **Gerenciar carrinho**.
 
+---
 
+# Tecnologias utilizadas
 
+- **Java**
+- **Spring Boot**
+- **Spring Starter Web**
+- **Spring Security**
+- **Spring JWT**
+- **Oauth2**
+- **JPA / Hibernate**
+- **H2 Database**
+- **Maven**
+- **Bean Validation**
+- **Postman**
 
+# Autor
 
+Eraldo José de Almeida Cunha
 
+<a href="https://www.linkedin.com/in/eraldojacunha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
