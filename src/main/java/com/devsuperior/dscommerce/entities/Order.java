@@ -51,6 +51,15 @@ public class Order {
 		this.client = client;
 	}
 
+	public Order(Long id, Instant moment, OrderStatus status, User client, Payment payment) {
+		super();
+		Id = id;
+		this.moment = moment;
+		this.status = status;
+		this.client = client;
+		this.payment = payment;
+	}
+
 	public Long getId() {
 		return Id;
 	}
